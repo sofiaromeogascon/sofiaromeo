@@ -42,6 +42,8 @@ encuentros {
     justify-content: center;/* Centra verticalmente */
     text-align: center;     /* Centra las líneas de texto */
     margin: 20px auto;      /* Centra el bloque completo en la pantalla */
+    gap: 15px;
+    margin: 40px auto;
 }
 
 cv {
@@ -51,4 +53,10 @@ cv {
     justify-content: center;/* Centra verticalmente */
     text-align: center;     /* Centra las líneas de texto */
     margin: 20px auto;      /* Centra el bloque completo en la pantalla */
+}
+
+
+img {
+    display: block;
+    margin: 40px auto;
 }
