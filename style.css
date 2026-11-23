@@ -64,6 +64,18 @@ encuentros {
     margin: 40px auto;
 }
 
+
+unacosadetrasdelaotra {
+    display: flex;
+    flex-direction: column; /* Apila imagen y texto uno debajo del otro */
+    align-items: center;    /* Centra horizontalmente */
+    justify-content: center;/* Centra verticalmente */
+    text-align: center;     /* Centra las líneas de texto */
+    margin: 20px auto;      /* Centra el bloque completo en la pantalla */
+    gap: 15px;
+    margin: 40px auto;
+}
+
 cv {
     display: flex;
     flex-direction: column; /* Apila imagen y texto uno debajo del otro */
